@@ -59,13 +59,14 @@
     <UnityVersion>2022.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Hris\.vscode\extensions\visualstudiotoolsforunity.vstuc-0.9.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\Hris\.vscode\extensions\visualstudiotoolsforunity.vstuc-0.9.4\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="D:\2022.3.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="D:\2022.3.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CharacterController.cs" />
-    <Compile Include="Assets\CharController.cs" />
+    <Compile Include="Assets\Beekerper Assets - made by Hris\TableTopScripts\Hex.cs" />
+    <Compile Include="Assets\Beekerper Assets - made by Hris\TableTopScripts\HexCoordinates.cs" />
+    <Compile Include="Assets\Beekerper Assets - made by Hris\TableTopScripts\HexGrid.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Lowpoly_Wasteland_Props\Readme\Readme.txt" />
